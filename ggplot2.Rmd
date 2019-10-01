@@ -1,0 +1,10 @@
+---
+title: "ggplot2"
+author: "Martha Mulugeta"
+date: "10/1/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
